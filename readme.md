@@ -1,8 +1,9 @@
-#Book My Show
+Book My Show
 ```agsl
 This is a movie booking application where user can book the movie ticket.
 ```
-#Problem:
+Problems:
+
     1. How to represent Auditorium seat in UI ?
     Sol: - I use 2D matrix to represent the seat structure
 
